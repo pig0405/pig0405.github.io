@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pig0405.github.io</id>
+    <title>Lucky pig</title>
+    <updated>2023-06-11T04:59:21.517Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pig0405.github.io"/>
+    <link rel="self" href="https://pig0405.github.io/atom.xml"/>
+    <subtitle>低调</subtitle>
+    <logo>https://pig0405.github.io/images/avatar.png</logo>
+    <icon>https://pig0405.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Lucky pig</rights>
+    <entry>
+        <title type="html"><![CDATA[公告]]></title>
+        <id>https://pig0405.github.io/post/gong-gao/</id>
+        <link href="https://pig0405.github.io/post/gong-gao/">
+        </link>
+        <updated>2023-06-04T07:44:14.000Z</updated>
+        <content type="html"><![CDATA[<p>因文章太乱,现在全部清零,以后再恢复.</p>
+]]></content>
+    </entry>
+</feed>
